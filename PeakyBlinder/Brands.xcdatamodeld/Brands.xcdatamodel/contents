@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17511" systemVersion="19G73" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BrandEntity" representedClassName="BrandEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="ceo" optional="YES" attributeType="String"/>
+        <attribute name="foundedYear" optional="YES"/>
+        <attribute name="founder" optional="YES" attributeType="String"/>
+        <attribute name="introduce" optional="YES" attributeType="String"/>
+        <attribute name="logo" optional="YES" attributeType="Transformable"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="BrandEntity" positionX="-63" positionY="-18" width="128" height="133"/>
+    </elements>
+</model>
